@@ -1,0 +1,11 @@
+C:\Users\trinh\Desktop\Dang_Nhap\Dang_Nhap\bin\Debug\Dang_Nhap.exe
+C:\Users\trinh\Desktop\Dang_Nhap\Dang_Nhap\bin\Debug\Dang_Nhap.pdb
+C:\Users\trinh\Desktop\Dang_Nhap\Dang_Nhap\obj\Debug\Dang_Nhap.csprojAssemblyReference.cache
+C:\Users\trinh\Desktop\Dang_Nhap\Dang_Nhap\obj\Debug\Dang_Nhap.Form1.resources
+C:\Users\trinh\Desktop\Dang_Nhap\Dang_Nhap\obj\Debug\Dang_Nhap.Properties.Resources.resources
+C:\Users\trinh\Desktop\Dang_Nhap\Dang_Nhap\obj\Debug\Dang_Nhap.csproj.GenerateResource.cache
+C:\Users\trinh\Desktop\Dang_Nhap\Dang_Nhap\obj\Debug\Dang_Nhap.csproj.CoreCompileInputs.cache
+C:\Users\trinh\Desktop\Dang_Nhap\Dang_Nhap\obj\Debug\Dang_Nhap.exe
+C:\Users\trinh\Desktop\Dang_Nhap\Dang_Nhap\obj\Debug\Dang_Nhap.pdb
+C:\Users\trinh\Desktop\Dang_Nhap\Dang_Nhap\obj\Debug\Dang_Nhap.Init.resources
+C:\Users\trinh\Desktop\Dang_Nhap\Dang_Nhap\obj\Debug\Dang_Nhap.Form2.resources
